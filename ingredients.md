@@ -2,4 +2,4 @@
 * lime
 * white onion
 * salt
-* anothher ingredient (intead of lime)
+* another ingredient (intead of lime)
