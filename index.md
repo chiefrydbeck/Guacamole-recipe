@@ -1,6 +1,6 @@
 # Website for guacamole recipe
 
-List of ingedient
+List of ingedient [ingredients](ingredients)
 
 List of instructions
 
