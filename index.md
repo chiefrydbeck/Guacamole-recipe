@@ -1,6 +1,6 @@
 # Website for guacamole recipe
 
-List of ingedient [ingredients](ingredients)
+List of ingedient [ingredients](https://chiefrydbeck.github.io/Guacamole-recipe/)
 
 List of instructions
 
